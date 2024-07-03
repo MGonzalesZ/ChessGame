@@ -112,6 +112,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Bitacora\correcto.JPG" />
+    <Content Include="Bitacora\helpErrors.JPG" />
     <Content Include="img\alfilbb.png" />
     <Content Include="img\alfilnn.png" />
     <Content Include="img\caballobb.png" />
