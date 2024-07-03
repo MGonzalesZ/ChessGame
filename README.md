@@ -1,5 +1,6 @@
 This is the first project I developed with C#  
 It is a Chess Game for two people  
+
 HOW TO PLAY?  
   
 1) Pick a piece with left click when it's your turn
