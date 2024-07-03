@@ -3,6 +3,8 @@ It is a Chess Game for two people
 HOW TO PLAY?  
 <img src="https://github.com/MGonzalesZ/ChessGame/blob/master/MauricioGonzales_ChessGame/Bitacora/Game.JPG" alt="Descripción de la imagen" width="400"/>  
 1) Pick a piece with left click when it's your turn
+
+   <img src="https://github.com/MGonzalesZ/ChessGame/blob/master/MauricioGonzales_ChessGame/Bitacora/step1.JPG" alt="Descripción de la imagen" width="400"/>
    
 3) The sqaures in which you can move that piece appear on yellow, it is a restricted movement
    
