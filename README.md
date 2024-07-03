@@ -16,4 +16,8 @@ HOW TO PLAY?
    
 7) When a checkmate occurs, it appears on a message and the game ends
 
-   <img src="![image](https://github.com/MGonzalesZ/ChessGame/assets/102996854/4cf2344a-9cbe-4f59-850a-a65363d36f4a)" alt="Descripción de la imagen" width="400"/>
+   <img src="https://github.com/MGonzalesZ/ChessGame/assets/102996854/4cf2344a-9cbe-4f59-850a-a65363d36f4a" alt="Descripción de la imagen" width="400"/>
+
+8) The game has finished. You can press "Restart" to play again
+
+  <img src="https://github.com/MGonzalesZ/ChessGame/blob/master/MauricioGonzales_ChessGame/Bitacora/step4.JPG" alt="Descripción de la imagen" width="400"/>
