@@ -1,3 +1,4 @@
+By: Mauricio Gonzales Zubieta  
 This is the first project I developed with C#  
 It is a Chess Game for two people  
 
