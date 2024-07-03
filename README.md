@@ -20,4 +20,5 @@ HOW TO PLAY?
 
 8) The game has finished. You can press "Restart" to play again
 
-  <img src="https://github.com/MGonzalesZ/ChessGame/blob/master/MauricioGonzales_ChessGame/Bitacora/step4.JPG" alt="Descripción de la imagen" width="400"/>
+   <img src="https://github.com/MGonzalesZ/ChessGame/blob/master/MauricioGonzales_ChessGame/Bitacora/step4.JPG" alt="Descripción de la imagen" width="400"/>
+   
